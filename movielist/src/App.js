@@ -117,7 +117,7 @@ function App() {
             />
           ))
         ) : (
-          <Placeholder src="/Movie_list/movielist/search-icons.webp" />
+          <Placeholder src="https://res.cloudinary.com/practicaldev/image/fetch/s--b2W86bSy--/c_imagga_scale,f_auto,fl_progressive,h_720,q_auto,w_1280/https://dev-to-uploads.s3.amazonaws.com/i/q3jazgb0xjxh4pxui6ge.png " />
         )}
       </MovieListContainer>
     </Container>
